@@ -1,0 +1,140 @@
+[
+  {
+    "company_name": "Atlas Robotics Corporation",
+    "registration_number": "US-5592001",
+    "jurisdiction": "USA",
+    "industry": "Robotics",
+    "business_address": "Silicon Valley, California, USA",
+    "shareholders": [
+      {
+        "name": "Pacific Venture Group Ltd",
+        "type": "company",
+        "ownership_percentage": 55,
+        "country": "USA",
+        "registration_number": "US-1189221",
+        "sub_entity": {
+          "company_name": "Pacific Venture Group Ltd",
+          "registration_number": "US-1189221",
+          "jurisdiction": "USA",
+          "industry": "Investment",
+          "business_address": "Boston, MA",
+          "shareholders": [
+            {
+              "name": "Northern Equity Holdings GmbH",
+              "type": "company",
+              "ownership_percentage": 80,
+              "country": "Germany",
+              "registration_number": "DE-7721930",
+              "sub_entity": {
+                "company_name": "Northern Equity Holdings GmbH",
+                "registration_number": "DE-7721930",
+                "jurisdiction": "Germany",
+                "industry": "Holding",
+                "business_address": "Berlin, Germany",
+                "shareholders": [
+                  {
+                    "name": "Marcus Schneider",
+                    "type": "individual",
+                    "ownership_percentage": 100,
+                    "country": "Germany",
+                    "nationality": "German",
+                    "dob": "1979-03-02",
+                    "sub_entity": null
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TechAngels LLC",
+              "type": "company",
+              "ownership_percentage": 20,
+              "country": "USA",
+              "registration_number": "US-9322112",
+              "sub_entity": {
+                "company_name": "TechAngels LLC",
+                "registration_number": "US-9322112",
+                "jurisdiction": "USA",
+                "industry": "Angel Investment",
+                "business_address": "New York, USA",
+                "shareholders": [
+                  {
+                    "name": "Sophia Martinez",
+                    "type": "individual",
+                    "ownership_percentage": 100,
+                    "country": "USA",
+                    "nationality": "American",
+                    "dob": "1990-08-17",
+                    "sub_entity": null
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "FutureTech Innovators Inc",
+        "type": "company",
+        "ownership_percentage": 45,
+        "country": "Canada",
+        "registration_number": "CA-7720012",
+        "sub_entity": {
+          "company_name": "FutureTech Innovators Inc",
+          "registration_number": "CA-7720012",
+          "jurisdiction": "Canada",
+          "industry": "Technology",
+          "business_address": "Toronto, Canada",
+          "shareholders": [
+            {
+              "name": "Emily Roberts",
+              "type": "individual",
+              "ownership_percentage": 100,
+              "country": "Canada",
+              "nationality": "Canadian",
+              "dob": "1984-11-05",
+              "sub_entity": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "company_name": "SilverTech Solutions Ltd",
+    "registration_number": "UK-3289001",
+    "jurisdiction": "United Kingdom",
+    "industry": "Software Development",
+    "business_address": "London, UK",
+    "shareholders": [
+      {
+        "name": "Emily Carter",
+        "type": "individual",
+        "ownership_percentage": 100.0,
+        "country": "United Kingdom",
+        "registration_number": null,
+        "nationality": "British",
+        "dob": "1990-07-11",
+        "sub_entity": null
+      }
+    ]
+  },
+  {
+    "company_name": "Zenith Quantum Labs",
+    "registration_number": "AZ-20251115",
+    "jurisdiction": "Azerbaijan",
+    "industry": "Deep Tech",
+    "business_address": "Baku, Azerbaijan",
+    "shareholders": [
+      {
+        "name": "Aykhan Ismayilov",
+        "type": "individual",
+        "ownership_percentage": 100.0,
+        "country": "Azerbaijan",
+        "registration_number": null,
+        "nationality": "Azerbaijani",
+        "dob": "2005-06-05",
+        "sub_entity": null
+      }
+    ]
+  }
+]
