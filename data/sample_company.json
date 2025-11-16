@@ -1,0 +1,45 @@
+{
+  "company_name": "Atlas Robotics Corporation",
+  "shareholders": [
+    {
+      "name": "Pacific Venture Group Ltd",
+      "type": "company",
+      "ownership_percentage": 55,
+      "sub_entity": {
+        "company_name": "Pacific Venture Group Ltd",
+        "shareholders": [
+          {
+            "name": "Northern Equity Holdings GmbH",
+            "type": "company",
+            "ownership_percentage": 80,
+            "sub_entity": {
+              "company_name": "Northern Equity Holdings GmbH",
+              "shareholders": [
+                {
+                  "name": "Marcus Schneider",
+                  "type": "individual",
+                  "ownership_percentage": 100
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "TechAngels LLC",
+      "type": "company",
+      "ownership_percentage": 20,
+      "sub_entity": {
+        "company_name": "TechAngels LLC",
+        "shareholders": [
+          {
+            "name": "Sophia Martinez",
+            "type": "individual",
+            "ownership_percentage": 100
+          }
+        ]
+      }
+    }
+  ]
+}
